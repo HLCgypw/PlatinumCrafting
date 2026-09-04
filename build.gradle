@@ -14,7 +14,7 @@ apply plugin: 'maven-publish'
 
 version = '1.0.3'
 group = 'com.hlpriver.aevmod' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = 'aevmod'
+archivesBaseName = 'Platinum Crafting'
 
 java.toolchain.languageVersion = JavaLanguageVersion.of(8) // Mojang ships Java 8 to end users, so your mod should target Java 8.
 
