@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "platinum_ingot",
+  "ingredients": [
+    {
+      "item": "aevmod:platinum_slab"
+    }
+  ],
+  "result": {
+    "item": "aevmod:platinum_ingot",
+    "count": 3
+  }
+}

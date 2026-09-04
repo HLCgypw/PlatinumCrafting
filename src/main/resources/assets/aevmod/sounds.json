@@ -1,0 +1,10 @@
+{
+  "madear": {
+    "sounds": [
+      {
+        "name": "aevmod:madear",
+        "stream": true
+      }
+    ]
+  }
+}

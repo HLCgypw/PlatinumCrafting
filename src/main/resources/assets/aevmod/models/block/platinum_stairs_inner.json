@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "aevmod:block/platinum_block",
+    "top": "aevmod:block/platinum_block",
+    "side": "aevmod:block/platinum_block"
+  }
+}

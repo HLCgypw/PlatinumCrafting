@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom",
+  "textures": {
+    "top": "aevmod:block/platinum_door_top",
+    "bottom": "aevmod:block/platinum_door_bottom"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "aevmod:block/platinum_slab"
+    },
+    "type=double": {
+      "model": "aevmod:block/platinum_block"
+    },
+    "type=top": {
+      "model": "aevmod:block/platinum_slab_top"
+    }
+  }
+}

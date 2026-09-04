@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "aevmod:item/aqua_simulacra_3"
+    }
+}
