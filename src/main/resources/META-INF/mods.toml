@@ -19,9 +19,9 @@ modId="aevmod" #mandatory
 # The version number of the mod - there's a few well known ${} variables useable here or just hardcode it
 # ${file.jarVersion} will substitute the value of the Implementation-Version as read from the mod's JAR file metadata
 # see the associated build.gradle script for how to populate this completely automatically during a build
-version="1.0.3" #mandatory
+version="1.0.4" #mandatory
  # A display name for the mod
-displayName="Platinum Mod" #mandatory
+displayName="Platinum Crafting" #mandatory
 # A URL to query for updates for this mod. See the JSON update specification https://mcforge.readthedocs.io/en/latest/gettingstarted/autoupdate/
 #updateJSONURL="https://change.me.example.invalid/updates.json" #optional
 # A URL for the "homepage" for this mod, displayed in the mod UI
@@ -34,8 +34,18 @@ credits="HLCgypw" #optional
 authors="HLCgypw" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-[ZH_CN]1.0.1<不可获取>,机密保险库飞天;1.0.2,修复保险库飞天问题;1.0.3,修复语言文件问题
-[EN_US]1.0.1<Unobtainable>,secret bank flying to sky;1.0.2, fixing bank flying problem;1.0.3, fixing language file problem'''
+[ZH_CN]1.0.4
+- 增强装备属性
+- 装备物品可合成(配方于原版相同)
+- 增多铂矿产出
+- 现在铂矿可用石镐开采
+- 延长铂矿冶炼时长(1煤炭烧1铂锭)
+[EN_US]1.0.4
+- Enhance equipment attributes
+- Equipment items can be synthesized (the formula is the same as the original version)
+- Increase platinum ore output
+- Platinum mines can now be mined with stone pickles
+- Yanchang platinum ore smelting time (1 coal burning 1 platinum ingot)'''
 
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.aevmod]] #optional

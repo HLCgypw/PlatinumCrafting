@@ -32,7 +32,7 @@ public class MBlocks {
             ()-> new Block(AbstractBlock
                     .Properties
                     .create(Material.IRON)
-                    .harvestLevel(2)
+                    .harvestLevel(3)
                     .harvestTool(ToolType.PICKAXE)
                     .setRequiresTool()
                     .hardnessAndResistance(10.0f,29.5f)
@@ -43,7 +43,7 @@ public class MBlocks {
                     ,AbstractBlock
                     .Properties
                     .create(Material.IRON)
-                    .harvestLevel(2)
+                    .harvestLevel(3)
                     .harvestTool(ToolType.PICKAXE)
                     .setRequiresTool()
                     .hardnessAndResistance(10.0f,29.5f)
@@ -54,7 +54,7 @@ public class MBlocks {
             ()-> new FenceBlock(AbstractBlock
                     .Properties
                     .create(Material.IRON)
-                    .harvestLevel(2)
+                    .harvestLevel(3)
                     .harvestTool(ToolType.PICKAXE)
                     .setRequiresTool()
                     .hardnessAndResistance(10.0f,29.5f)
@@ -64,7 +64,7 @@ public class MBlocks {
             ()-> new FenceGateBlock(AbstractBlock
                     .Properties
                     .create(Material.IRON)
-                    .harvestLevel(2)
+                    .harvestLevel(3)
                     .harvestTool(ToolType.PICKAXE)
                     .setRequiresTool()
                     .hardnessAndResistance(10.0f,29.5f)
@@ -74,7 +74,7 @@ public class MBlocks {
             ()-> new SlabBlock(AbstractBlock
                     .Properties
                     .create(Material.IRON)
-                    .harvestLevel(2)
+                    .harvestLevel(3)
                     .harvestTool(ToolType.PICKAXE)
                     .setRequiresTool()
                     .hardnessAndResistance(10.0f,29.5f)
@@ -84,7 +84,7 @@ public class MBlocks {
             ()-> new StoneButtonBlock(AbstractBlock
                     .Properties
                     .create(Material.IRON)
-                    .harvestLevel(2)
+                    .harvestLevel(3)
                     .harvestTool(ToolType.PICKAXE)
                     .setRequiresTool()
                     .hardnessAndResistance(10.0f,29.5f)
@@ -95,7 +95,7 @@ public class MBlocks {
             ()-> new PressurePlateBlock(PressurePlateBlock.Sensitivity.EVERYTHING,AbstractBlock
                     .Properties
                     .create(Material.IRON)
-                    .harvestLevel(2)
+                    .harvestLevel(3)
                     .harvestTool(ToolType.PICKAXE)
                     .setRequiresTool()
                     .hardnessAndResistance(10.0f,29.5f)
@@ -105,7 +105,7 @@ public class MBlocks {
             ()-> new DoorBlock(AbstractBlock
                     .Properties
                     .create(Material.IRON)
-                    .harvestLevel(2)
+                    .harvestLevel(3)
                     .harvestTool(ToolType.PICKAXE)
                     .setRequiresTool()
                     .hardnessAndResistance(10.0f,29.5f)
@@ -116,7 +116,7 @@ public class MBlocks {
             ()-> new TrapDoorBlock(AbstractBlock
                     .Properties
                     .create(Material.IRON)
-                    .harvestLevel(2)
+                    .harvestLevel(3)
                     .harvestTool(ToolType.PICKAXE)
                     .setRequiresTool()
                     .hardnessAndResistance(10.0f,29.5f)
@@ -127,7 +127,7 @@ public class MBlocks {
             ()-> new Block(AbstractBlock
                     .Properties
                     .create(Material.ROCK)
-                    .harvestLevel(2)
+                    .harvestLevel(1)
                     .harvestTool(ToolType.PICKAXE)
                     .setRequiresTool()
                     .hardnessAndResistance(7.0f,22.5f)
