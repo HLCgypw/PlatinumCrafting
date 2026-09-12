@@ -6,7 +6,7 @@ import net.minecraftforge.common.util.Lazy;
 
 public enum OreType {
     //
-    PLATINUM(Lazy.of(MBlocks.PLATINUM_ORE),6,10,60);
+    PLATINUM(Lazy.of(MBlocks.PLATINUM_ORE),16,10,64);
     //
     private final Lazy<Block> block;
     private final int maxVeinSize;
