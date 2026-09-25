@@ -107,7 +107,7 @@ Platinum Mod 是一个以**铂金**为核心主题的综合内容模组，为 Mi
 
 ## 致谢
 
-开发者G204工作室代号T.O.,HLC.Priver开发。
+开发者G204工作室HLC.Priver开发。
 
 ---
 
