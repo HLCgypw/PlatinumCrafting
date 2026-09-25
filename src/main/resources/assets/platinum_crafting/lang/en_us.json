@@ -1,0 +1,38 @@
+﻿{
+  "item.platinum_crafting.aqua_simulacra": "Aqua Simulacra",
+  "item.platinum_crafting.convince_chest": "Platinum Portable Chest",
+  "item.platinum_crafting.first_painting": "First Painting",
+  "item.platinum_crafting.platinum_axe": "Platinum Axe",
+  "item.platinum_crafting.platinum_boots": "Platinum Boots",
+  "item.platinum_crafting.platinum_chestplate": "Platinum Chestplate",
+  "item.platinum_crafting.platinum_disc": "Platinum Disc",
+  "item.platinum_crafting.platinum_disc.desc": "Record music mAdEar from a Japanese game Magical Girl Witch Trials OP2",
+  "item.platinum_crafting.platinum_helmet": "Platinum Helmet",
+  "item.platinum_crafting.platinum_hoe": "Platinum Hoe",
+  "item.platinum_crafting.platinum_horse_armor": "Platinum Horse Armor",
+  "item.platinum_crafting.platinum_ingot": "Platinum Ingot",
+  "item.platinum_crafting.platinum_leggings": "Platinum Leggings",
+  "item.platinum_crafting.platinum_nugget": "Platinum Nugget",
+  "item.platinum_crafting.platinum_pickaxe": "Platinum Pickaxe",
+  "item.platinum_crafting.platinum_shovel": "Platinum Shovel",
+  "item.platinum_crafting.platinum_sword": "Platinum Sword",
+
+  "itemGroup.platinum_tab_one": "Platinum Tab 1",
+
+  "block.platinum_crafting.lsitting": "Sitting",
+  "block.platinum_crafting.platinum_block": "Platinum Block",
+  "block.platinum_crafting.platinum_button": "Platinum Button",
+  "block.platinum_crafting.platinum_chest": "Platinum Chest",
+  "block.platinum_crafting.platinum_chest_1": "Platinum Chest 1",
+  "block.platinum_crafting.platinum_door": "Platinum Door",
+  "block.platinum_crafting.platinum_fence": "Platinum Fence",
+  "block.platinum_crafting.platinum_fence_gate": "Platinum Fence Gate",
+  "block.platinum_crafting.platinum_ore": "Platinum Ore",
+  "block.platinum_crafting.platinum_pressure_plate": "Platinum Pressure Plate",
+  "block.platinum_crafting.platinum_slab": "Platinum Slab",
+  "block.platinum_crafting.platinum_stairs": "Platinum Stairs",
+  "block.platinum_crafting.platinum_trapdoor": "Platinum Trapdoor",
+
+  "container.platinum_crafting.chest": "Platinum Chest",
+  "container.platinum_crafting.chest_1": "Platinum Chest 1"
+}

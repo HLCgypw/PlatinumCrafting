@@ -1,0 +1,38 @@
+﻿{
+  "item.platinum_crafting.aqua_simulacra": "水之幻影",
+  "item.platinum_crafting.convince_chest": "铂便携箱子",
+  "item.platinum_crafting.first_painting": "初始画作",
+  "item.platinum_crafting.platinum_axe": "铂斧",
+  "item.platinum_crafting.platinum_boots": "铂靴子",
+  "item.platinum_crafting.platinum_chestplate": "铂胸甲",
+  "item.platinum_crafting.platinum_disc": "铂制音乐碟片",
+  "item.platinum_crafting.platinum_disc.desc": "刻录音乐 mAdEar 来自一日本电子游戏《魔法少女的魔法审判》OP2",
+  "item.platinum_crafting.platinum_helmet": "铂头盔",
+  "item.platinum_crafting.platinum_hoe": "铂锄",
+  "item.platinum_crafting.platinum_horse_armor": "铂马铠",
+  "item.platinum_crafting.platinum_ingot": "铂锭",
+  "item.platinum_crafting.platinum_leggings": "铂护腿",
+  "item.platinum_crafting.platinum_nugget": "铂粒",
+  "item.platinum_crafting.platinum_pickaxe": "铂镐",
+  "item.platinum_crafting.platinum_shovel": "铂锹",
+  "item.platinum_crafting.platinum_sword": "铂剑",
+
+  "itemGroup.platinum_tab_one": "铂物品栏1",
+
+  "block.platinum_crafting.lsitting": "坐",
+  "block.platinum_crafting.platinum_block": "铂块",
+  "block.platinum_crafting.platinum_button": "铂按钮",
+  "block.platinum_crafting.platinum_chest": "铂箱子",
+  "block.platinum_crafting.platinum_chest_1": "铂箱子1",
+  "block.platinum_crafting.platinum_door": "铂门",
+  "block.platinum_crafting.platinum_fence": "铂栅栏",
+  "block.platinum_crafting.platinum_fence_gate": "铂栅栏门",
+  "block.platinum_crafting.platinum_ore": "铂矿",
+  "block.platinum_crafting.platinum_pressure_plate": "铂压力板",
+  "block.platinum_crafting.platinum_slab": "铂台阶",
+  "block.platinum_crafting.platinum_stairs": "铂楼梯",
+  "block.platinum_crafting.platinum_trapdoor": "铂活板门",
+
+  "container.platinum_crafting.chest": "铂箱子",
+  "container.platinum_crafting.chest_1": "铂箱子1"
+}

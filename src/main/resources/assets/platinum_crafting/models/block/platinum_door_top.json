@@ -1,0 +1,7 @@
+﻿{
+  "parent": "minecraft:block/door_top",
+  "textures": {
+    "top": "platinum_crafting:block/platinum_door_top",
+    "bottom": "platinum_crafting:block/platinum_door_bottom"
+  }
+}

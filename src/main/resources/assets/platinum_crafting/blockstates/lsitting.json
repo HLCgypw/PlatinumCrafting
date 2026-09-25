@@ -1,0 +1,19 @@
+﻿{
+  "variants": {
+    "facing=east": {
+      "model": "platinum_crafting:block/lsitting",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "platinum_crafting:block/lsitting"
+    },
+    "facing=west": {
+      "model": "platinum_crafting:block/lsitting",
+      "y": 270
+    },
+    "facing=south": {
+      "model": "platinum_crafting:block/lsitting",
+      "y": 180
+    }
+  }
+}

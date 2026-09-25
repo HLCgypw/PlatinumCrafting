@@ -1,0 +1,6 @@
+﻿{
+  "parent": "minecraft:block/fence_inventory",
+  "textures": {
+    "texture": "platinum_crafting:block/platinum_block"
+  }
+}

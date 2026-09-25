@@ -1,0 +1,6 @@
+﻿{
+  "parent": "minecraft:block/button_inventory",
+  "textures": {
+    "texture": "platinum_crafting:block/platinum_block"
+  }
+}

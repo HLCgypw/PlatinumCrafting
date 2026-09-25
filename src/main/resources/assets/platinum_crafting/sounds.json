@@ -1,0 +1,10 @@
+﻿{
+  "madear": {
+    "sounds": [
+      {
+        "name": "platinum_crafting:madear",
+        "stream": true
+      }
+    ]
+  }
+}

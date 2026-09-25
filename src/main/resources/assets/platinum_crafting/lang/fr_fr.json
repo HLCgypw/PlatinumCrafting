@@ -1,0 +1,38 @@
+﻿{
+  "item.platinum_crafting.aqua_simulacra": "Simulacre d'Eau",
+  "item.platinum_crafting.convince_chest": "Coffre Portable en platine",
+  "item.platinum_crafting.first_painting": "Premier peinture",
+  "item.platinum_crafting.platinum_axe": "Hache en platine",
+  "item.platinum_crafting.platinum_boots": "Bottes en platine",
+  "item.platinum_crafting.platinum_chestplate": "Plastron en platine",
+  "item.platinum_crafting.platinum_disc": "Dis en platine",
+  "item.platinum_crafting.platinum_disc.desc": "Musique mAdEar de la jeu Japonais Magical Girl Witch Trials OP2",
+  "item.platinum_crafting.platinum_helmet": "Casque en platine",
+  "item.platinum_crafting.platinum_hoe": "Houe en platine",
+  "item.platinum_crafting.platinum_horse_armor": "Armure de cheval en platine",
+  "item.platinum_crafting.platinum_ingot": "Lingot de platine",
+  "item.platinum_crafting.platinum_leggings": "Jambières en platine",
+  "item.platinum_crafting.platinum_nugget": "Pépite de platine",
+  "item.platinum_crafting.platinum_pickaxe": "Pioche en platine",
+  "item.platinum_crafting.platinum_shovel": "Pelle en platine",
+  "item.platinum_crafting.platinum_sword": "Épée en platine",
+
+  "itemGroup.platinum_tab_one": "Onglet Platine 1",
+
+  "block.platinum_crafting.lsitting": "Sitting",
+  "block.platinum_crafting.platinum_block": "Bloc de platine",
+  "block.platinum_crafting.platinum_button": "Bouton en platine",
+  "block.platinum_crafting.platinum_chest": "Chest de platine",
+  "block.platinum_crafting.platinum_chest_1": "Chest de platine 1",
+  "block.platinum_crafting.platinum_door": "Porte en platine",
+  "block.platinum_crafting.platinum_fence": "Barrière en platine",
+  "block.platinum_crafting.platinum_fence_gate": "Portillon en platine",
+  "block.platinum_crafting.platinum_ore": "Ore de platine",
+  "block.platinum_crafting.platinum_pressure_plate": "Plaque de pression en platine",
+  "block.platinum_crafting.platinum_slab": "Dalle en platine",
+  "block.platinum_crafting.platinum_stairs": "Escaliers en platine",
+  "block.platinum_crafting.platinum_trapdoor": "Trappe en platine",
+
+  "container.platinum_crafting.chest": "Chest de platine",
+  "container.platinum_crafting.chest_1": "Chest de platine 1"
+}

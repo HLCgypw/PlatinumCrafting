@@ -1,0 +1,6 @@
+﻿{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "platinum_crafting:item/aqua_simulacra_3"
+    }
+}

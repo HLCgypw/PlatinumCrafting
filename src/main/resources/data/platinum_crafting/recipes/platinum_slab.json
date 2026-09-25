@@ -1,0 +1,16 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_slab",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "platinum_crafting:platinum_ingot"
+    }
+  },
+  "result": {
+    "item": "platinum_crafting:platinum_slab",
+    "count": 1
+  }
+}

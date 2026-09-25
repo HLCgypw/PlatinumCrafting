@@ -1,0 +1,16 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X X",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "platinum_crafting:platinum_ingot"
+    }
+  },
+  "result": {
+    "item": "platinum_crafting:platinum_chestplate"
+  }
+}
