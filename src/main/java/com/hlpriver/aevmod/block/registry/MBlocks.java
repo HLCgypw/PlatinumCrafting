@@ -1,6 +1,6 @@
 package com.hlpriver.aevmod.block.registry;
 
-import com.hlpriver.aevmod.AevMod;
+import com.hlpriver.aevmod.PlatinumCore;
 
 import com.hlpriver.aevmod.block.custom.ChestBlock;
 import com.hlpriver.aevmod.block.custom.ChestBlock1;
@@ -23,7 +23,7 @@ import java.util.function.Supplier;
 
 public class MBlocks {
     public static final DeferredRegister<Block> BLOCKS = DeferredRegister.create(ForgeRegistries.BLOCKS,
-            AevMod.MOD_ID);
+            PlatinumCore.MOD_ID);
 
     //注册区
     //铂金工艺

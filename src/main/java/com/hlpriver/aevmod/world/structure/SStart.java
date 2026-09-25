@@ -1,6 +1,6 @@
 package com.hlpriver.aevmod.world.structure;
 
-import com.hlpriver.aevmod.AevMod;
+import com.hlpriver.aevmod.PlatinumCore;
 import net.minecraft.util.ResourceLocation;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.math.MutableBoundingBox;
@@ -38,7 +38,7 @@ public class SStart extends StructureStart<NoFeatureConfig> {
         //addpieces()
         JigsawManager.func_242837_a(DRManager,
                 new VillageConfig(() -> DRManager.getRegistry(Registry.JIGSAW_POOL_KEY)
-                        .getOrDefault(new ResourceLocation(AevMod.MOD_ID, "secret_bank_1/start_pool")),
+                        .getOrDefault(new ResourceLocation(PlatinumCore.MOD_ID, "secret_bank_1/start_pool")),
                         10), AbstractVillagePiece::new, CG, TM,
                 blockpos, this.components, this.rand,false,false);
 

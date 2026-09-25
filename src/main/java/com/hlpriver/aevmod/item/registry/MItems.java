@@ -1,12 +1,12 @@
 package com.hlpriver.aevmod.item.registry;
 
-import com.hlpriver.aevmod.AevMod;
+import com.hlpriver.aevmod.PlatinumCore;
+import com.hlpriver.aevmod.item.custom.ASItem;
 import com.hlpriver.aevmod.item.custom.PaintingItem;
 import com.hlpriver.aevmod.item.custom.ChestItem;
 import com.hlpriver.aevmod.item.itemgroup.MItemGroup;
 import com.hlpriver.aevmod.painting.MPaintingType;
 import com.hlpriver.aevmod.util.MSoundEvents;
-import net.minecraft.item.BowItem;
 import net.minecraft.item.Item;
 import net.minecraft.item.MusicDiscItem;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -16,7 +16,7 @@ import net.minecraftforge.registries.ForgeRegistries;
 
 public class MItems {
     public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS,
-            AevMod.MOD_ID);
+            PlatinumCore.MOD_ID);
     //注册区
     //铂金物品
     public static final RegistryObject<Item> PLATINUM_INGOT = ITEMS.register("platinum_ingot",
@@ -38,7 +38,7 @@ public class MItems {
     //                .maxStackSize(1)
     //                .maxDamage(500)));
     public static final RegistryObject<Item> AS = ITEMS.register("aqua_simulacra",()->
-            new BowItem(new Item.Properties()
+            new ASItem(new Item.Properties()
             .group(MItemGroup.PLATINUM_TAB_ONE)
             .maxStackSize(1)
             .maxDamage(500)));

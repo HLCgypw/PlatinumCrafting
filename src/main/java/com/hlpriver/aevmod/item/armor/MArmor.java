@@ -1,6 +1,6 @@
 package com.hlpriver.aevmod.item.armor;
 
-import com.hlpriver.aevmod.AevMod;
+import com.hlpriver.aevmod.PlatinumCore;
 import com.hlpriver.aevmod.item.registry.MItems;
 import net.minecraft.inventory.EquipmentSlotType;
 import net.minecraft.item.IArmorMaterial;
@@ -76,7 +76,7 @@ public enum MArmor implements IArmorMaterial {
 
     @OnlyIn(Dist.CLIENT)
     public String getName() {
-        return AevMod.MOD_ID+":"+this.name;
+        return PlatinumCore.MOD_ID+":"+this.name;
     }
 
     public float getToughness() {

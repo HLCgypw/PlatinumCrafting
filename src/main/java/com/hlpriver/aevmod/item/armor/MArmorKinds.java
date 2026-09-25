@@ -1,6 +1,6 @@
 package com.hlpriver.aevmod.item.armor;
 
-import com.hlpriver.aevmod.AevMod;
+import com.hlpriver.aevmod.PlatinumCore;
 import com.hlpriver.aevmod.item.itemgroup.MItemGroup;
 import net.minecraft.inventory.EquipmentSlotType;
 import net.minecraft.item.ArmorItem;
@@ -13,7 +13,7 @@ import net.minecraftforge.registries.ForgeRegistries;
 
 public class MArmorKinds {
     public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS,
-            AevMod.MOD_ID);
+            PlatinumCore.MOD_ID);
     //注册区
     //铂金护甲[从上至下分别为：头——甲——护腿——靴]
     public static final RegistryObject<Item> PLATINUM_HELMET = ITEMS.register("platinum_helmet",

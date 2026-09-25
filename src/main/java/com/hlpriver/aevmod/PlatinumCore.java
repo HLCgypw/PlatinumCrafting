@@ -37,16 +37,16 @@ import org.apache.logging.log4j.Logger;
 import java.util.stream.Collectors;
 
 // The value here should match an entry in the META-INF/mods.toml file
-@Mod(AevMod.MOD_ID)
-public class AevMod
+@Mod(PlatinumCore.MOD_ID)
+public class PlatinumCore
 {
     // Directly reference a log4j logger.
     private static final Logger LOGGER = LogManager.getLogger();
-    public static final String MOD_ID = "aevmod";
+    public static final String MOD_ID = "platinum_crafting";
 
 
 
-    public AevMod() {
+    public PlatinumCore() {
         // Register the setup method for modloading
 
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
@@ -103,7 +103,7 @@ public class AevMod
     private void enqueueIMC(final InterModEnqueueEvent event)
     {
         // some example code to dispatch IMC to another mod
-        InterModComms.sendTo(AevMod.MOD_ID, "helloworld", () -> { LOGGER.info("Hello world from the MDK"); return "Hello world";});
+        InterModComms.sendTo(PlatinumCore.MOD_ID, "helloworld", () -> { LOGGER.info("Hello world from the MDK"); return "Hello world";});
     }
 
     private void processIMC(final InterModProcessEvent event)

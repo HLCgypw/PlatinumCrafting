@@ -2,7 +2,7 @@ package com.hlpriver.aevmod.world.structure;
 
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.ImmutableMap;
-import com.hlpriver.aevmod.AevMod;
+import com.hlpriver.aevmod.PlatinumCore;
 import com.hlpriver.aevmod.world.structure.structures.SecretBank1;
 import net.minecraft.util.registry.WorldGenRegistries;
 import net.minecraft.world.gen.feature.NoFeatureConfig;
@@ -18,7 +18,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class MStructures {
-    public static final DeferredRegister<Structure<?>> STRUCTURE = DeferredRegister.create(ForgeRegistries.STRUCTURE_FEATURES, AevMod.MOD_ID);
+    public static final DeferredRegister<Structure<?>> STRUCTURE = DeferredRegister.create(ForgeRegistries.STRUCTURE_FEATURES, PlatinumCore.MOD_ID);
     //registries
     public static final RegistryObject<Structure<NoFeatureConfig>> SB1 = STRUCTURE.register("secret_bank_1", SecretBank1::new);
     //

@@ -1,6 +1,6 @@
 package com.hlpriver.aevmod.screens;
 
-import com.hlpriver.aevmod.AevMod;
+import com.hlpriver.aevmod.PlatinumCore;
 import com.hlpriver.aevmod.container.CChestContainer1;
 import com.mojang.blaze3d.matrix.MatrixStack;
 import com.mojang.blaze3d.systems.RenderSystem;
@@ -10,7 +10,7 @@ import net.minecraft.util.ResourceLocation;
 import net.minecraft.util.text.ITextComponent;
 
 public class MChestScreen1 extends ContainerScreen<CChestContainer1> {
-    private final ResourceLocation GUI_1 = new ResourceLocation(AevMod.MOD_ID,"textures/gui/container/platinum_chest_1.png");
+    private final ResourceLocation GUI_1 = new ResourceLocation(PlatinumCore.MOD_ID,"textures/gui/container/platinum_chest_1.png");
     public MChestScreen1(CChestContainer1 screenC1, PlayerInventory playerInventory1, ITextComponent textComponent1){
         super(screenC1,playerInventory1,textComponent1);
 

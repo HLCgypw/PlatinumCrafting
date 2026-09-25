@@ -15,7 +15,7 @@ license="All rights reserved"
 # A list of mods - how many allowed here is determined by the individual mod loader
 [[mods]] #mandatory
 # The modid of the mod
-modId="aevmod" #mandatory
+modId="platinum_crafting" #mandatory
 # The version number of the mod - there's a few well known ${} variables useable here or just hardcode it
 # ${file.jarVersion} will substitute the value of the Implementation-Version as read from the mod's JAR file metadata
 # see the associated build.gradle script for how to populate this completely automatically during a build
@@ -34,21 +34,14 @@ credits="HLCgypw" #optional
 authors="HLCgypw" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-[ZH_CN]1.0.4
-- 增强装备属性
-- 装备物品可合成(配方于原版相同)
-- 增多铂矿产出
-- 现在铂矿可用石镐开采
-- 延长铂矿冶炼时长(1煤炭烧1铂锭)
-[EN_US]1.0.4
-- Enhance equipment attributes
-- Equipment items can be synthesized (the formula is the same as the original version)
-- Increase platinum ore output
-- Platinum mines can now be mined with stone pickles
-- Yanchang platinum ore smelting time (1 coal burning 1 platinum ingot)'''
+[ZH_CN]1.0.5
+-若水弓更新--新增箭矢落地爆炸效果(伤害4TNT当量)
+
+[EN_US]1.0.5
+-Bow[Aqua Simulacra] update-Add an explosion effect on the landing of the arrow (damage 4TNT equivalent)'''
 
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
-[[dependencies.aevmod]] #optional
+[[dependencies.platinum_crafting]] #optional
     # the modid of the dependency
     modId="forge" #mandatory
     # Does this dependency have to exist - if not, ordering below must be specified
@@ -60,7 +53,7 @@ description='''
     # Side this dependency is applied on - BOTH, CLIENT or SERVER
     side="BOTH"
 # Here's another dependency
-[[dependencies.aevmod]]
+[[dependencies.platinum_crafting]]
     modId="minecraft"
     mandatory=true
 # This version range declares a minimum of the current minecraft version up to but not including the next major version

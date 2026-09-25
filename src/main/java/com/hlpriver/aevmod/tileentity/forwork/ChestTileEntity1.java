@@ -1,6 +1,6 @@
 package com.hlpriver.aevmod.tileentity.forwork;
 
-import com.hlpriver.aevmod.AevMod;
+import com.hlpriver.aevmod.PlatinumCore;
 import com.hlpriver.aevmod.block.custom.ChestBlock;
 import com.hlpriver.aevmod.container.CChestContainer1;
 import com.hlpriver.aevmod.tileentity.MTileEntities;
@@ -37,7 +37,7 @@ public class ChestTileEntity1 extends BasicLootTileEntity {
     //Set GUI name
     @Override
     protected ITextComponent getDefaultName() {
-        return new TranslationTextComponent("container."+ AevMod.MOD_ID+".chest_1");
+        return new TranslationTextComponent("container."+ PlatinumCore.MOD_ID+".chest_1");
     }
     //Set GUI size - 9*9 grid (temporarily fixed to 9x9)
     @Override

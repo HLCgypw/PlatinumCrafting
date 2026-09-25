@@ -1,7 +1,7 @@
 package com.hlpriver.aevmod.world;
 
 
-import com.hlpriver.aevmod.AevMod;
+import com.hlpriver.aevmod.PlatinumCore;
 import com.hlpriver.aevmod.world.gen.MOreGeneration;
 import com.hlpriver.aevmod.world.gen.MStructureGeneration;
 import com.hlpriver.aevmod.world.structure.MStructures;
@@ -26,7 +26,7 @@ import java.lang.reflect.Method;
 import java.util.HashMap;
 import java.util.Map;
 
-@Mod.EventBusSubscriber(modid = AevMod.MOD_ID)
+@Mod.EventBusSubscriber(modid = PlatinumCore.MOD_ID)
 public class MWorldEvents {
     @SubscribeEvent
     public static void biomeLoadingEvent(final BiomeLoadingEvent event){

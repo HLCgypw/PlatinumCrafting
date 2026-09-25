@@ -1,6 +1,6 @@
 package com.hlpriver.aevmod.tileentity;
 
-import com.hlpriver.aevmod.AevMod;
+import com.hlpriver.aevmod.PlatinumCore;
 import com.hlpriver.aevmod.block.registry.MBlocks;
 import com.hlpriver.aevmod.tileentity.forwork.ChestTileEntity;
 import com.hlpriver.aevmod.tileentity.forwork.ChestTileEntity1;
@@ -12,7 +12,7 @@ import net.minecraftforge.registries.ForgeRegistries;
 
 public class MTileEntities {
     public static final DeferredRegister<TileEntityType<?>> TILE_ENTITY = DeferredRegister.create(
-            ForgeRegistries.TILE_ENTITIES,AevMod.MOD_ID);
+            ForgeRegistries.TILE_ENTITIES, PlatinumCore.MOD_ID);
 
     public static final RegistryObject<TileEntityType<ChestTileEntity>> CHEST_TILE_ENTITY = TILE_ENTITY
             .register("chest_tile_entity",() ->TileEntityType
