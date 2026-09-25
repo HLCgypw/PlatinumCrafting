@@ -27,7 +27,7 @@ displayName="Platinum Crafting" #mandatory
 # A URL for the "homepage" for this mod, displayed in the mod UI
 #displayURL="https://change.me.to.your.mods.homepage.example.invalid/" #optional
 # A file name (in the root of the mod JAR) containing a logo for display
-#logoFile="tutorialmod.png" #optional
+#logoFile="platinum_crafting.png" #optional
 # A text field displayed in the mod UI
 credits="HLCgypw" #optional
 # A text field displayed in the mod UI

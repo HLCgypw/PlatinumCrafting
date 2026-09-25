@@ -1,7 +1,7 @@
-{
+﻿{
   "replace": false,
   "values": [
-    "aevmod:platinum_fence",
+    "platinum_crafting:platinum_fence",
     "minecraft:nether_brick_fence"
   ]
 }

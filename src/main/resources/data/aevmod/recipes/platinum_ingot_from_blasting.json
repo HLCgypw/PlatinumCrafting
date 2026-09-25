@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:blasting",
-  "ingredient": {
-    "item": ""
-  },
-  "result": "aevmod:platinum_ingot",
-  "experience": 2.0,
-  "cookingtime": 800
-}

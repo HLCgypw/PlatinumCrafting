@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/slab_top",
-  "textures": {
-    "bottom": "aevmod:block/platinum_block",
-    "top": "aevmod:block/platinum_block",
-    "side": "aevmod:block/platinum_block"
-  }
-}
